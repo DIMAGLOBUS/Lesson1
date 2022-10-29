@@ -7,3 +7,19 @@ class  Humanoid:
         self.car = car
         self.glladness = 50
         self.satiety = 50
+    def get_home(self):
+        pass
+    def get_car(self):
+        pass
+    def get_job(self):
+        pass
+    def eat(self):
+        pass
+    def work(self):
+        pass
+    def shopping(self):
+        pass
+    def chill(self):
+        pass
+    def clear_house(self):
+        pass
